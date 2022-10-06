@@ -2,8 +2,6 @@
 <h3 align="center">I am a computer vision and deep learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowda-95&label=Profile%20views&color=0e75b6&style=flat" alt="gowda-95" /> </p>
-
 - 🔭 I’m currently working on **point cloud generation from images**
 
 - 🌱 I’m currently learning **computer vision topics and C++ programming language**
