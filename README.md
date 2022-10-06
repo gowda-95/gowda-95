@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **C++ projects for computer vision applications**
 
-- 📫 How to reach me **nishanth1995.22@gmail.com**
+- 📫 You can reach me @ **nishanth1995.22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
